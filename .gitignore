@@ -18,3 +18,5 @@ dist/
 
 # Ignore logs and cache
 *.log
+dist/
+venv/
